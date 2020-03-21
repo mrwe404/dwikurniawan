@@ -8,4 +8,4 @@ Menggunakan tools sublime text
 3. Menggunakan bahasa pemrograman javascript (js), mengedit menggunakan sublime text, pengujian menggunakan console pada browser
 4. Menggunakan bahasa pemrograman javascript (js), mengedit menggunakan sublime text, pengujian menggunakan console pada browser
 5. Menggunakan bahasa pemrograman javascript (js), mengedit menggunakan sublime text, pengujian menggunakan console pada browser
-6.a Mengedit menggunakan sublime text. 
+6. A Mengedit menggunakan sublime text. 
