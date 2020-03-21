@@ -7,5 +7,5 @@ Menggunakan tools sublime text
 2. Menggunakan Regular Expression, editor menggunakan sublime text. pengujian masi dicari tau
 3. Menggunakan bahasa pemrograman javascript (js), mengedit menggunakan sublime text, pengujian menggunakan console pada browser
 4. Menggunakan bahasa pemrograman javascript (js), mengedit menggunakan sublime text, pengujian menggunakan console pada browser
-5. null..................
+5. Menggunakan bahasa pemrograman javascript (js), mengedit menggunakan sublime text, pengujian menggunakan console pada browser
 6.a Mengedit menggunakan sublime text. 
