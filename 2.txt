@@ -1,0 +1,10 @@
+var usernameRegex = new RegExp("^(?=.*[a-z])(?=.*?[5-7]){7,}$");
+var passwordRegex = new RegExp("^(?=.*[a-z])(?=.*\d)(?=.*[A-Z])(?=.*?[0-9])(?=.*?[@]){,9}");
+
+usernameCheck("dwikurniawan")
+ if (usenameRegex == usernameCheck)
+return true;
+
+passwordCheck ("Kint4m@ni")
+ if (passwordRegex == passwordCheck)
+return true;
